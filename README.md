@@ -71,7 +71,7 @@ Ce projet a été réalisé par une équipe collaborative de développeurs passi
 | **Filière** | INF S3 |
 | **Professeur** | Soukaina Mjahed |
 | **Université** | Cadi Ayyad |
-| **Faculté** | Sciences Semlalia (FSSM) |
+| **Faculté** | des Sciences Semlalia (FSSM) |
 | **Année universitaire** | 2025/2026 |
 
 ---
@@ -80,7 +80,7 @@ Ce projet a été réalisé par une équipe collaborative de développeurs passi
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/votre-username/brandity.git
+   git clone https://github.com/ayoub-moussaoui/brandity.git
    ```
 
 2. **Accéder au dossier du projet**
