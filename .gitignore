@@ -1,0 +1,141 @@
+# ============================================
+# SECRETS & SENSITIVE DATA (CRITICAL!)
+# ============================================
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config/secrets.js
+config/credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.cert
+*.sqlite3
+*.db
+/secrets/
+credentials.json
+serviceAccount.json
+
+# ============================================
+# DEPENDENCIES
+# ============================================
+node_modules/
+vendor/
+bower_components/
+jspm_packages/
+package-lock.json  # Optional: some teams ignore this
+yarn.lock          # Optional: some teams ignore this
+pnpm-lock.yaml     # Optional: some teams ignore this
+
+# ============================================
+# BUILDS, COMPILED OUTPUT & CACHE
+# ============================================
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+.vuepress/dist/
+*.min.js
+*.min.css
+*.map
+/tmp/
+coverage/
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+
+# ============================================
+# IDE & EDITOR FILES
+# ============================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains (WebStorm, IntelliJ, etc.)
+.idea/
+*.iml
+*.iws
+
+# Vim
+*.swp
+*.swo
+*~
+Session.vim
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ============================================
+# OPERATING SYSTEMS
+# ============================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+
+# ============================================
+# LOGS & ERROR REPORTS
+# ============================================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pnpm-debug.log*
+
+# ============================================
+# TESTING
+# ============================================
+coverage/
+*.lcov
+.nyc_output/
+test-results/
+playwright-report/
+
+# ============================================
+# MISC
+# ============================================
+*.bak
+*.tmp
+*.temp
+.sass-cache/
+*.pid
+*.seed
+*.pid.lock
