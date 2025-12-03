@@ -35,16 +35,6 @@ a { text-decoration: none; color: inherit; }
     height: 25px;
 }
 
-/* .logo {
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: 1.5rem;
-    letter-spacing: 1px;
-    background: linear-gradient(90deg, #6366f1, #a855f7);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-} */
-
 .nav-links {
     display: flex;
     gap: 30px;
@@ -194,11 +184,6 @@ a { text-decoration: none; color: inherit; }
     margin-bottom: 50px;
 }
 
-/* .footer-col .logo {
-    color: #6366f1;
-    font-family: var(--font-heading);
-    margin-bottom: 15px;
-} */
 .footer-col .logo { margin-bottom: 15px; }
 
 .footer-col h4 {
