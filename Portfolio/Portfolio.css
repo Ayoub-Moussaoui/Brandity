@@ -31,8 +31,11 @@ a { text-decoration: none; color: inherit; }
     top: 0;
     z-index: 1000;
 }
+.logo{
+    height: 25px;
+}
 
-.logo {
+/* .logo {
     font-family: var(--font-heading);
     font-weight: 700;
     font-size: 1.5rem;
@@ -40,7 +43,7 @@ a { text-decoration: none; color: inherit; }
     background: linear-gradient(90deg, #6366f1, #a855f7);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
+} */
 
 .nav-links {
     display: flex;
@@ -191,11 +194,12 @@ a { text-decoration: none; color: inherit; }
     margin-bottom: 50px;
 }
 
-.footer-col h3 {
+/* .footer-col .logo {
     color: #6366f1;
     font-family: var(--font-heading);
     margin-bottom: 15px;
-}
+} */
+.footer-col .logo { margin-bottom: 15px; }
 
 .footer-col h4 {
     color: #fff;
