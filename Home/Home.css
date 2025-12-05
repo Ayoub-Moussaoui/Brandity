@@ -1,1 +1,162 @@
 
+
+
+.Links{
+
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-size: 0.85rem;
+    font-family: var(--font-body);
+
+}
+
+.Links a {
+
+    font-weight: 500;
+    font-size: 0.95rem;
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5%;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+
+
+
+.logo{
+
+height: 25px;
+color: white;
+}
+
+
+.btn-primary {
+    background: linear-gradient(90deg, #08080e,  #092767);
+    padding: 10px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: transform 0.2s;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+body{
+
+ background-image: url("Design sans titre (12) (1).png ");
+ background-repeat: no-repeat;
+ background-size: auto;
+ background-attachment: scroll;
+ min-width: 360px;
+
+}
+
+
+#D1{
+
+width: 330px;
+height: 30px;
+background-color: white;
+opacity: 25%;
+border-radius: 10px;
+position: absolute;
+bottom: 60%;
+left: 23.6%;
+border-top-left-radius: 0px;
+border-end-start-radius: 0px;
+border-color: white;
+}
+
+
+
+
+
+
+#T1{
+
+position: absolute;
+bottom: 35%;
+left: 20%;
+color: white;
+font-size: 50px;
+opacity: 70%;
+
+
+}
+
+
+#T2{
+
+position: absolute;
+bottom: 25%;
+left: 20%;
+color: white;
+opacity: 30%;
+
+
+
+}
+
+
+
+#B4{
+
+position: absolute;
+bottom: 15%;
+left: 13.5%;
+margin-inline-start: 100px;
+width: 140px;
+height: 40px;
+border-radius: 7px;
+border: 0px;
+
+
+
+}
+
+
+#I2{
+
+ opacity: 5%;
+ position: absolute;
+ right: 10%;
+ bottom: 10%;
+
+}
+
+
+
+
+
+
+#R1{
+
+width: 130px;
+height: 130px;
+position: absolute;
+left: 24%;
+top: 0%;
+display: none;
+
+
+}
+
+
+
+
