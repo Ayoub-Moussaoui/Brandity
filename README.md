@@ -109,7 +109,7 @@ brandity/
 │   └── main.js       # Scripts JavaScript
 ├── assets/
 │   ├── images/         # Images et ressources visuelles
-│   └── icons/          # Polices personnalisées
+│   └── icons/          # icônes personnalisées
 └── README.md           # Documentation
 ```
 
