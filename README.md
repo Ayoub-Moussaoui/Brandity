@@ -102,15 +102,15 @@ Ce projet a été réalisé par une équipe collaborative de développeurs passi
 
 ```
 brandity/
-├── index.html          # Page d'accueil
-├── css/
-│   └── style.css       # Feuilles de style
-├── js/
-│   └── main.js       # Scripts JavaScript
-├── assets/
-│   ├── images/         # Images et ressources visuelles
-│   └── icons/          # icônes personnalisées
-└── README.md           # Documentation
+├── index.html    # Page d'accueil
+├── style.css
+│                 # Feuilles de style
+├── main.js       # Scripts JavaScript
+│                 
+├── images/       # Images et ressources visuelles
+├── icons/        # icônes personnalisées
+│                
+└── README.md     # Documentation      
 ```
 
 ---
