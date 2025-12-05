@@ -115,9 +115,42 @@ brandity/
 
 ---
 
-## 🎨 Captures d'écran
+## 🎨 Captures d'écran :
 
-*[Ajoutez ici des captures d'écran de votre projet]*
+
+
+<img width="1897" height="811" alt="Project_img1" src="https://github.com/user-attachments/assets/a72a5522-de86-4e2a-9243-7341b65bf7e7" />
+
+
+
+<img width="1883" height="786" alt="Project_img2" src="https://github.com/user-attachments/assets/7a257eae-3cda-4644-99ee-340596565e8b" />
+
+
+
+
+<img width="1888" height="788" alt="Project_img3" src="https://github.com/user-attachments/assets/7816ed7f-29c0-4d8c-8e00-c46f208944bd" />
+
+
+
+
+<img width="1892" height="863" alt="Project_img4" src="https://github.com/user-attachments/assets/57ce58c0-2e61-421c-92ba-7b0b6d0380e4" />
+
+
+
+<img width="1891" height="866" alt="Project_img5" src="https://github.com/user-attachments/assets/6098db05-c387-4e4b-86cb-7ea5c3c952a0" />
+
+
+
+<img width="1898" height="787" alt="Project_img6" src="https://github.com/user-attachments/assets/fa152574-384b-4880-8434-4da159401489" />
+
+
+
+<img width="1891" height="350" alt="Project_img7" src="https://github.com/user-attachments/assets/d2e7a2e1-7d97-4324-9167-7dfca29ab557" />
+
+
+
+
+
 
 ---
 
