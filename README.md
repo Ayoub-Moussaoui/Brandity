@@ -106,10 +106,10 @@ brandity/
 ├── css/
 │   └── style.css       # Feuilles de style
 ├── js/
-│   └── script.js       # Scripts JavaScript
+│   └── main.js       # Scripts JavaScript
 ├── assets/
 │   ├── images/         # Images et ressources visuelles
-│   └── fonts/          # Polices personnalisées
+│   └── icons/          # Polices personnalisées
 └── README.md           # Documentation
 ```
 
@@ -127,18 +127,6 @@ brandity/
 2. Découvrez nos services
 3. Remplissez le formulaire de contact
 4. Notre équipe vous contactera pour démarrer votre projet
-
----
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
 
 ---
 
